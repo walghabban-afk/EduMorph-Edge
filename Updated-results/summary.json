@@ -1,0 +1,25 @@
+{
+  "classification_counts": {
+    "Engaged": 7200,
+    "Transitioning": 4320,
+    "Disengaged": 2880
+  },
+  "icc1_school_post_score": 0.014493150488357032,
+  "attrition": {
+    "counts_treatment_control": {
+      "treatment_n": 150,
+      "treatment_complete": 91,
+      "control_n": 150,
+      "control_complete": 87
+    },
+    "chi2": 0.22103518143304476,
+    "p": 0.6382522915775926,
+    "dof": 1
+  },
+  "seeds": {
+    "classifier": 20261124,
+    "trial": 20261125,
+    "fairness": 20261126
+  },
+  "notice": "ALL DATA AND ANALYSES IN THIS REPORT ARE SYNTHETIC SIMULATIONS; NOT OBSERVED STUDY RESULTS."
+}

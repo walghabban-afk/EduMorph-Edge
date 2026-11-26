@@ -1,0 +1,10 @@
+# Full environment (model training and evaluation). Python 3.10-3.12.
+torch==2.2.2
+numpy==1.26.4
+scipy==1.13.0
+scikit-learn==1.4.2
+pandas==2.2.2
+matplotlib==3.8.4
+pytest==8.2.0
+# Optional: DistilBERT text encoder (model.encode_text)
+transformers==4.40.2

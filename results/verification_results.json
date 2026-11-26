@@ -1,0 +1,1062 @@
+{
+  "n_checks": 132,
+  "n_fail": 0,
+  "checks": [
+    {
+      "section": "Table I",
+      "item": "Mathematics: t(298)",
+      "computed": 39.7727,
+      "reported": 39.76,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Mathematics: 95% CI lower",
+      "computed": 19.4857,
+      "reported": 19.49,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Mathematics: 95% CI upper",
+      "computed": 21.5143,
+      "reported": 21.52,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Mathematics: relative improvement (%)",
+      "computed": 31.6847,
+      "reported": 31.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Mathematics: pre-test baseline equivalence (p > 0.05)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Mathematics: Cohen's d",
+      "computed": 4.5926,
+      "reported": 4.59,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Mathematics: d = t*sqrt(2/n)",
+      "computed": 4.5926,
+      "reported": 4.59,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Mathematics: d 95% CI lower",
+      "computed": 4.161,
+      "reported": 4.16,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Mathematics: d 95% CI upper",
+      "computed": 5.0241,
+      "reported": 5.02,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Science: t(298)",
+      "computed": 40.4564,
+      "reported": 40.46,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Science: 95% CI lower",
+      "computed": 19.7882,
+      "reported": 19.79,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Science: 95% CI upper",
+      "computed": 21.8118,
+      "reported": 21.81,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Science: relative improvement (%)",
+      "computed": 30.9064,
+      "reported": 30.9,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Science: pre-test baseline equivalence (p > 0.05)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Science: Cohen's d",
+      "computed": 4.6715,
+      "reported": 4.67,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Science: d = t*sqrt(2/n)",
+      "computed": 4.6715,
+      "reported": 4.67,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Science: d 95% CI lower",
+      "computed": 4.2345,
+      "reported": 4.23,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Science: d 95% CI upper",
+      "computed": 5.1085,
+      "reported": 5.11,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "English: t(298)",
+      "computed": 40.7884,
+      "reported": 40.79,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "English: 95% CI lower",
+      "computed": 19.5109,
+      "reported": 19.51,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "English: 95% CI upper",
+      "computed": 21.4891,
+      "reported": 21.49,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "English: relative improvement (%)",
+      "computed": 33.1179,
+      "reported": 33.1,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "English: pre-test baseline equivalence (p > 0.05)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "English: Cohen's d",
+      "computed": 4.7098,
+      "reported": 4.71,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "English: d = t*sqrt(2/n)",
+      "computed": 4.7098,
+      "reported": 4.71,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "English: d 95% CI lower",
+      "computed": 4.2702,
+      "reported": 4.27,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "English: d 95% CI upper",
+      "computed": 5.1494,
+      "reported": 5.15,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Social Studies: t(298)",
+      "computed": 37.1589,
+      "reported": 37.16,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Social Studies: 95% CI lower",
+      "computed": 19.509,
+      "reported": 19.51,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Social Studies: 95% CI upper",
+      "computed": 21.691,
+      "reported": 21.69,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Social Studies: relative improvement (%)",
+      "computed": 34.7973,
+      "reported": 34.8,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Social Studies: pre-test baseline equivalence (p > 0.05)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Social Studies: Cohen's d",
+      "computed": 4.2907,
+      "reported": 4.29,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Social Studies: d = t*sqrt(2/n)",
+      "computed": 4.2907,
+      "reported": 4.29,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Social Studies: d 95% CI lower",
+      "computed": 3.8795,
+      "reported": 3.88,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Social Studies: d 95% CI upper",
+      "computed": 4.7019,
+      "reported": 4.7,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Overall: t(298)",
+      "computed": 39.6349,
+      "reported": 39.64,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Overall: 95% CI lower",
+      "computed": 19.5772,
+      "reported": 19.58,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Overall: 95% CI upper",
+      "computed": 21.6228,
+      "reported": 21.62,
+      "tolerance": 0.03,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Overall: relative improvement (%)",
+      "computed": 32.5434,
+      "reported": 32.5,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table I",
+      "item": "Overall: pre-test baseline equivalence (p > 0.05)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Overall: Cohen's d",
+      "computed": 4.5766,
+      "reported": 4.58,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Overall: d = t*sqrt(2/n)",
+      "computed": 4.5766,
+      "reported": 4.58,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Overall: d 95% CI lower",
+      "computed": 4.1461,
+      "reported": 4.15,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table II",
+      "item": "Overall: d 95% CI upper",
+      "computed": 5.0071,
+      "reported": 5.01,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Table IX",
+      "item": "EduMorph-Edge pre-to-post gain (%)",
+      "computed": 37.541,
+      "reported": 37.5,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table IX",
+      "item": "Madrasati pre-to-post gain (%)",
+      "computed": 3.9409,
+      "reported": 3.9,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.05: design effect",
+      "computed": 2.6167,
+      "reported": 2.62,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.05: effective n per group",
+      "computed": 57.0,
+      "reported": 57.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.05: adjusted t",
+      "computed": 24.5053,
+      "reported": 24.51,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.05: p < 0.001 (df = 7)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.1: design effect",
+      "computed": 4.2333,
+      "reported": 4.23,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.1: effective n per group",
+      "computed": 35.0,
+      "reported": 35.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.1: adjusted t",
+      "computed": 19.266,
+      "reported": 19.27,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.1: p < 0.001 (df = 7)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.2: design effect",
+      "computed": 7.4667,
+      "reported": 7.47,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.2: effective n per group",
+      "computed": 20.0,
+      "reported": 20.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.2: adjusted t",
+      "computed": 14.5068,
+      "reported": 14.51,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.2: p < 0.001 (df = 7)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.3: design effect",
+      "computed": 10.7,
+      "reported": 10.7,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.3: effective n per group",
+      "computed": 14.0,
+      "reported": 14.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.3: adjusted t",
+      "computed": 12.1183,
+      "reported": 12.12,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.3: p < 0.001 (df = 7)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.30: min subject adjusted t",
+      "computed": 11.3601,
+      "reported": 11.36,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-A clustering",
+      "item": "ICC=0.30: max subject adjusted t",
+      "computed": 12.4699,
+      "reported": 12.47,
+      "tolerance": 0.01,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. III-C power",
+      "item": "n per group for 80% power",
+      "computed": 79.0,
+      "reported": 79.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. III-C power",
+      "item": "n per group for 95% power",
+      "computed": 130.0,
+      "reported": 130.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. III-C power",
+      "item": "power at n = 150 per group",
+      "computed": 0.9729,
+      "reported": 0.973,
+      "tolerance": 0.0005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "avg_rt_ms: change (%)",
+      "computed": 66.6667,
+      "reported": 66.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "p95_rt_ms: change (%)",
+      "computed": 59.9673,
+      "reported": 60.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "max_users: change (%)",
+      "computed": 500.0,
+      "reported": 500.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "cpu_pct: change (%)",
+      "computed": 19.4805,
+      "reported": 19.5,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "memory_gb: change (%)",
+      "computed": 43.8486,
+      "reported": 43.8,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "storage_iops: change (%)",
+      "computed": 40.4494,
+      "reported": 40.4,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "cost_usd: change (%)",
+      "computed": 24.3902,
+      "reported": 24.4,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "uptime difference (pp)",
+      "computed": 2.52,
+      "reported": 2.52,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table III",
+      "item": "p99 (276 ms) exceeds p95 (245 ms)",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-B",
+      "item": "matched-load (50 users) mean RT reduction (%)",
+      "computed": 70.922,
+      "reported": 70.9,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table IV",
+      "item": "max mean RT below 160 ms",
+      "computed": 1.0,
+      "reported": 1.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Daily Active Time (min): change (%)",
+      "computed": 47.352,
+      "reported": 47.4,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Weekly Login Frequency: change (%)",
+      "computed": 48.7179,
+      "reported": 48.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Content Completion Rate: change (%)",
+      "computed": 32.3442,
+      "reported": 32.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Voluntary Extended Sessions: change (%)",
+      "computed": 170.3125,
+      "reported": 170.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Peer Collaboration Events: change (%)",
+      "computed": 166.2921,
+      "reported": 166.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Help-Seeking Frequency: change (%)",
+      "computed": -29.9539,
+      "reported": -30.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table V",
+      "item": "Self-Correction Rate: change (%)",
+      "computed": 45.3039,
+      "reported": 45.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VI",
+      "item": "D - C learning gain (pp)",
+      "computed": 19.1,
+      "reported": 19.1,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VI",
+      "item": "D - C engagement score",
+      "computed": 27.3,
+      "reported": 27.3,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VII",
+      "item": "SUS: difference",
+      "computed": 18.1,
+      "reported": 18.1,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VII",
+      "item": "NASA-TLX: difference",
+      "computed": -20.9,
+      "reported": -20.9,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VII",
+      "item": "NPS: difference",
+      "computed": 35.0,
+      "reported": 35.0,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VII",
+      "item": "Perceived transparency: difference",
+      "computed": 1.2,
+      "reported": 1.2,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "gender: EduMorph-Edge n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "gender: control n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "geography: EduMorph-Edge n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "geography: control n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "prior_gpa: EduMorph-Edge n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Table VIII",
+      "item": "prior_gpa: control n sums to 150",
+      "computed": 150.0,
+      "reported": 150.0,
+      "tolerance": 0,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. III-C sample",
+      "item": "female (%)",
+      "computed": 50.6667,
+      "reported": 50.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "% retained, EduMorph-Edge",
+      "computed": 68.1319,
+      "reported": 68.1,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "% retained, control",
+      "computed": 31.0345,
+      "reported": 31.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "chi-square(1)",
+      "computed": 24.4843,
+      "reported": 24.48,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "phi",
+      "computed": 0.3709,
+      "reported": 0.37,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "difference in proportions (pp)",
+      "computed": 37.0974,
+      "reported": 37.1,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "Newcombe CI lower (pp)",
+      "computed": 22.6075,
+      "reported": 22.6,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "Newcombe CI upper (pp)",
+      "computed": 49.4137,
+      "reported": 49.4,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "odds ratio",
+      "computed": 4.751,
+      "reported": 4.75,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "OR 95% CI lower",
+      "computed": 2.5226,
+      "reported": 2.52,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "OR 95% CI upper",
+      "computed": 8.9476,
+      "reported": 8.95,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "risk ratio",
+      "computed": 2.1954,
+      "reported": 2.2,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "RR 95% CI lower",
+      "computed": 1.5574,
+      "reported": 1.56,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G retention",
+      "item": "RR 95% CI upper",
+      "computed": 3.0946,
+      "reported": 3.09,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G attrition",
+      "item": "attrition chi-square(1)",
+      "computed": 0.221,
+      "reported": 0.22,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G attrition",
+      "item": "attrition p-value",
+      "computed": 0.6383,
+      "reported": 0.64,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G attrition",
+      "item": "attrition %, EduMorph-Edge",
+      "computed": 39.3333,
+      "reported": 39.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G attrition",
+      "item": "attrition %, control",
+      "computed": 42.0,
+      "reported": 42.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G attrition",
+      "item": "overall attrition %",
+      "computed": 40.6667,
+      "reported": 40.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "common-rate difference, minimum (pp)",
+      "computed": 20.6667,
+      "reported": 20.7,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "common-rate difference, maximum (pp)",
+      "computed": 23.3333,
+      "reported": 23.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "pooled completer retention rate (%)",
+      "computed": 50.0,
+      "reported": 50.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "pooled-rate imputation, EduMorph-Edge (%)",
+      "computed": 61.0,
+      "reported": 61.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "pooled-rate imputation, control (%)",
+      "computed": 39.0,
+      "reported": 39.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "pooled-rate imputation, difference (pp)",
+      "computed": 22.0,
+      "reported": 22.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "tipping-point minimum gap (pp)",
+      "computed": 52.5424,
+      "reported": 52.5,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "tipping example: control rate when EduMorph rate = 0 (%)",
+      "computed": 55.5556,
+      "reported": 55.6,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "worst case, EduMorph-Edge (%)",
+      "computed": 41.3333,
+      "reported": 41.3,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. IV-G ITT",
+      "item": "worst case, control (%)",
+      "computed": 60.0,
+      "reported": 60.0,
+      "tolerance": 0.05,
+      "status": "PASS"
+    },
+    {
+      "section": "Table A.II",
+      "item": "Engaged: F1 from precision and recall",
+      "computed": 0.9248,
+      "reported": 0.92,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table A.II",
+      "item": "Transitioning: F1 from precision and recall",
+      "computed": 0.8495,
+      "reported": 0.85,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table A.II",
+      "item": "Disengaged: F1 from precision and recall",
+      "computed": 0.8999,
+      "reported": 0.9,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Table A.II",
+      "item": "macro-averaged F1",
+      "computed": 0.89,
+      "reported": 0.89,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "section": "Sec. III-A classifier",
+      "item": "windows per student",
+      "computed": 60.0,
+      "reported": 60.0,
+      "tolerance": 0,
+      "status": "PASS"
+    }
+  ]
+}
